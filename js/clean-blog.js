@@ -1055,4 +1055,10 @@ jQuery(document).ready(function($) {
 				this.previousTop = currentTop;
 			});
 	}
+
+	$('.scrolly').on('click', function(e) {
+		console.log("asd");
+	  e.preventDefault();
+	  $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+	});
 });
