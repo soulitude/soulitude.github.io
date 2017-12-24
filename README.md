@@ -44,5 +44,9 @@ This has two parts.
 
 
 ## Developer Instructions-
+
+```
+jekyll serve
+```
     
     
