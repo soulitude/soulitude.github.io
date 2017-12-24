@@ -1,0 +1,28 @@
+# Site settings
+title: Soulitude
+header-img: img/home-bg.jpg
+email: aakanksha.agrawal98@gmail.com
+copyright_name: Aakanksha Agrawal
+description: "Writing for the soul."
+baseurl: ""
+author: "Aakanksha Agrawal"
+url: "http://soulitude.github.io"
+github_username:  soulitude/soulitude.github.io
+# facebook_username:  mymidnightmuse101
+email_username:  aakanksha.agrawal98@gmail.com
+developer_url: "https://abhinavagrawal.in"
+developer: "Abhinav Agrawal"
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id: "UA-52121429-5"
+disqus-shortname: soulitude
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json"]
+
+gems: [jekyll-paginate, jekyll-feed]

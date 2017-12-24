@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Sample"
+header-img: "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAo6AAAAJDY4Zjc1ZjhmLWY1YWQtNDY1YS1iNTQ5LTg3MjRkMTIwNGY5MQ.jpg"
+---
+
+<h1>Likho jo likhna hai</h1>
+<hr/>
+<p>html me likho <i>aaram</i> se.
+
+
