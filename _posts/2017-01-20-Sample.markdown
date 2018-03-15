@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conversations"
-header-img: "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAo6AAAAJDY4Zjc1ZjhmLWY1YWQtNDY1YS1iNTQ5LTg3MjRkMTIwNGY5MQ.jpg"
+header-img: "D:\blog\a.jpg"
 ---
 
 <h1>To the Eccedentesiast</h1>
