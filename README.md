@@ -1,6 +1,16 @@
-# My Midnight Muse
+# To the Eccedentesiast
 
-This is the source code for the website - MyMidnightMuse
+No small talk,no formalities.
+Let everything out.
+Tell me what made you cry? The reason behind the hesitation in your smile,
+The thoughts that keep you awake every night,
+Send me paragraphs about the beach you love visting,
+The happy and not so happy memories of your childhood,
+Don't fret,pour your heart out,
+And I promise I will listen to you for hours,
+I will hang on to each word you say,
+Let us together listen to the sorrows of the world,the reason behind the chaos,
+Let's make this life worthwhile to live.
 
 ## Blogger Instructions-
 
