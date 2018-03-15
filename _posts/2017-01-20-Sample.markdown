@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Sample"
+title: "Conversations"
 header-img: "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAo6AAAAJDY4Zjc1ZjhmLWY1YWQtNDY1YS1iNTQ5LTg3MjRkMTIwNGY5MQ.jpg"
 ---
 
-<h1>Likho jo likhna hai</h1>
+<h1>To the Eccedentesiast</h1>
 <hr/>
-<p>html me likho <i>aaram</i> se.
+<p>No small talk,no formalities.<br>
+Let everything out. <br>
+Tell me what made you cry? The reason behind the hesitation in your smile, <br>
+The thoughts that keep you awake every night, <br>
+Send me paragraphs about the beach you love visting,  <br>
+The happy and not so happy memories of your childhood, <br>
+Don't fret,pour your heart out, <br>
+And I promise I will listen to you for hours, <br>
+I will hang on to each word you say,  <br>
+Let us together listen to the sorrows of the world,the reason behind the chaos, <br>
+Let's make this life worthwhile to live. <br>
 
 
