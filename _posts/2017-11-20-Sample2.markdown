@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Sample 2"
+title: "Breaking Free"
 header-img: "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAo6AAAAJDY4Zjc1ZjhmLWY1YWQtNDY1YS1iNTQ5LTg3MjRkMTIwNGY5MQ.jpg"
 ---
-
-<h1>Likho jo likhna hai</h1>
-<hr/>
-<p>html me likho <i>aaram</i> se.
-
+Twenty seconds of courage, <br>
+Twenty seconds of mind over matter, <br>
+Twenty seconds of listening to your heart,  <br>
+Twenty seconds of living your dream <br>
+That is all you need to change your life.  <br>
+Cause darling,that is what life is all about, <br>
+It's about how you see the ups and downs,  <br>
+It's about living your passion, <br>
+It's about discovering  yourself,  <br>
+Remind yourself how incredibly beautiful the world is and it's ok to be empty,  <br>
+Let your hair down,  <br>
+Enjoy the small moments, <br>
+Smile a little more, <br>
+Laugh more, <br>
+Live and love each moment of your life, <br>
+The dots will connect,  <br>
+At the end of the day,all you want to do is to look back and say, <br>
+It was a great life!. <br>
 
