@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Breaking Free"
-header-img: "https://www.logia.be/politiek-maatschappij/sorry-rutten-zo-werkt-het-niet-in-een-samenleving/"
+header-img: "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjVu7OEzcfdAhUGWysKHc-LBbIQjRx6BAgBEAU&url=https%3A%2F%2Fgaiahumana.com%2Fportfolio%2Fgalerie-dattitudes-decalees&psig=AOvVaw2BedkzrsxupW7cd2vmdyHI&ust=1537464850886197"
 ---
 Twenty seconds of courage, <br>
 Twenty seconds of mind over matter, <br>
